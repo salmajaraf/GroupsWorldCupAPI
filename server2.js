@@ -25,18 +25,18 @@ app.get('/Groups', (req, res) => {
   });
 });
 
-app.get('/matches/:id', (req, res) => {
+app.get('/Groups/:id', (req, res) => {
   const id = req.params.id;
-  fs.readFile('Matches.json', 'utf-8', (err, data) => {
+  fs.readFile('Groups.json', 'utf-8', (err, data) => {
     if (err) {
       console.error(err);
       res.status(500).send('Erreur serveur');
       return;
     }
     const dataFormat = JSON.parse(data);
-    const infoMatche = dataFormat.filter(matche => matche.id == id)[0];
-    if (infoMatche) {
-      res.json(infoMatche);
+    const infoGrp = dataFormat.filter(group => group.id == id)[0];
+    if (infoGrp) {
+      res.json(infoGrp);
     } else {
       res.status(404).send('not found');
     }
