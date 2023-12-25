@@ -1,4 +1,4 @@
-{
+[
     {
       "id": 1,
       "name": "Group A",
@@ -79,4 +79,4 @@
         { "number": 4, "name": "Cameroon", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/255px-Flag_of_Cameroon.svg.png" }
       ]
     }    
-}
+]
