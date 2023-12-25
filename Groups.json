@@ -1,0 +1,82 @@
+{
+    {
+      "id": 1,
+      "name": "Group A",
+      "countries": [
+        { "number": 1, "name": "Morocco", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Flag_of_Morocco.svg/255px-Flag_of_Morocco.svg.png" },
+        { "number": 2, "name": "Croatia", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/255px-Flag_of_Croatia.svg.png" },
+        { "number": 3, "name": "Canada", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/255px-Flag_of_Canada_%28Pantone%29.svg.png" },
+        { "number": 4, "name": "Belgium", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Flag_of_Belgium.svg/196px-Flag_of_Belgium.svg.png" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Group B",
+      "countries": [
+        { "number": 1, "name": "Spain", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/750px-Flag_of_Spain.svg.png" },
+        { "number": 2, "name": "Costa Rica", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Flag_of_Costa_Rica.svg/255px-Flag_of_Costa_Rica.svg.png" },
+        { "number": 3, "name": "Germany", "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/255px-Flag_of_Germany.svg.png" },
+        { "number": 4, "name": "Japan", "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/255px-Flag_of_Japan.svg.png" }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Group C",
+      "countries": [
+        { "number": 1, "name": "Portugal", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png" },
+        { "number": 2, "name": "Ghana", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Flag_of_Ghana.svg/2560px-Flag_of_Ghana.svg.png" },
+        { "number": 3, "name": "Uruguay", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/255px-Flag_of_Uruguay.svg.png" },
+        { "number": 4, "name": "South Korea", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/255px-Flag_of_South_Korea.svg.png" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Group D",
+      "countries": [
+        { "number": 1, "name": "England", "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/Flag_of_England.svg/255px-Flag_of_England.svg.png" },
+        { "number": 2, "name": "Wales", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Flag_of_Wales.svg/255px-Flag_of_Wales.svg.png" },
+        { "number": 3, "name": "United States", "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/255px-Flag_of_the_United_States.svg.png" },
+        { "number": 4, "name": "Iran", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/255px-Flag_of_Iran.svg.png" }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Group E",
+      "countries": [
+        { "number": 1, "name": "Saudi Arabia", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Flag_of_Saudi_Arabia.svg/255px-Flag_of_Saudi_Arabia.svg.png" },
+        { "number": 2, "name": "Argentina", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/langfr-225px-Flag_of_Argentina.svg.png" },
+        { "number": 3, "name": "Mexico", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Flag_of_Mexico.svg/255px-Flag_of_Mexico.svg.png" },
+        { "number": 4, "name": "Poland", "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/255px-Flag_of_Poland.svg.png" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Group F",
+      "countries": [
+        { "number": 1, "name": "Tunisia", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Flag_of_Tunisia.svg/langfr-225px-Flag_of_Tunisia.svg.png" },
+        { "number": 2, "name": "France", "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/255px-Flag_of_France.svg.png" },
+        { "number": 3, "name": "Australia", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Flag_of_Australia_%28converted%29.svg/255px-Flag_of_Australia_%28converted%29.svg.png" },
+        { "number": 4, "name": "Denmark", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/225px-Flag_of_Denmark.svg.png" }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Group G",
+      "countries": [
+        { "number": 1, "name": "Egypt", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Egypt.svg/255px-Flag_of_Egypt.svg.png" },
+        { "number": 2, "name": "Eucador", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Flag_of_Ecuador.svg/255px-Flag_of_Ecuador.svg.png" },
+        { "number": 3, "name": "Senegal", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Flag_of_Senegal.svg/langfr-225px-Flag_of_Senegal.svg.png" },
+        { "number": 4, "name": "Netherlands", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/255px-Flag_of_the_Netherlands.svg.png" }
+      ]
+    }, 
+    {
+      "id": 8,
+      "name": "Group H",
+      "countries": [
+        { "number": 1, "name": "Brazil", "flag": "https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/243px-Flag_of_Brazil.svg.png" },
+        { "number": 2, "name": "Serbia", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/255px-Flag_of_Serbia.svg.png" },
+        { "number": 3, "name": "Switzerland", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Flag_of_Switzerland_%28Pantone%29.svg/170px-Flag_of_Switzerland_%28Pantone%29.svg.png" },
+        { "number": 4, "name": "Cameroon", "flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Flag_of_Cameroon.svg/255px-Flag_of_Cameroon.svg.png" }
+      ]
+    }    
+}
